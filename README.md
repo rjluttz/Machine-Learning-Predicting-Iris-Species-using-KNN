@@ -1,2 +1,2 @@
-# Machine-Learning-Predicting-Iris-Species-using-KNN
+# Machine Learning : Predicting Iris Species using KNN
 Predicting Species using K Nearest neighbour Algorithm
